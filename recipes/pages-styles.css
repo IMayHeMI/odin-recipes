@@ -15,6 +15,7 @@ body{
 
 .main-content{
     display: flex;
+    font-size: 18px;
     align-items: center;
     justify-content: center;
     flex-direction: column;
@@ -30,4 +31,21 @@ a:link{
 
 a:hover{
     color: rgb(249, 199, 141);
+}
+
+hr{
+    border: 1px , solid, #4f2d01;
+    width: 100%;
+}
+
+li{
+    padding-bottom: 6px;
+}
+
+img{
+    transition: transform 0.4s;
+}
+
+img:hover{
+    transform: scale(1.05);
 }
