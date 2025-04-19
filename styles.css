@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 251, 237);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    background-color: rgb(249, 199, 141);
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 20px;
+}
+
+.recipes{
+    font-size: 18px;
+}
+
+li{
+    padding-bottom: 3px;
+}
